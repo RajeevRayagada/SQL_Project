@@ -1,3 +1,3 @@
 ﻿# SQL_PROJECT
 Small SQL sample: schema, seed data, example queries.
-Run with sqlite3: sqlite3 test.db < schema.sql
+Run with sqlite3 (optional): sqlite3 test.db < schema.sql
