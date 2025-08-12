@@ -9,10 +9,6 @@ This project demonstrates practical SQL skills through the design and implementa
 - Example queries illustrating basic and advanced SQL operations.
 - Optional Python automation (`run.py`) to create and populate the database and execute queries automatically.
 
-## Schema Diagram
-
-![Schema Diagram](./schema_diagram.png)  
-*(Create a simple ER diagram with any free tool, save as schema_diagram.png in repo root.)*
 
 ### Tables
 
